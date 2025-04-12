@@ -1,8 +1,5 @@
 ## Working on
 * [GetDollie](https://getdollie.com)
-* [WebPDF](https://webpdf.xyz)
-* [SaaScape](https://saascape.io)
-* [Webmer](https://webmer.app)
 * [StaxWP](https://staxwp.com)
 * [StaxUI](https://staxui.com)
 
